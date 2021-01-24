@@ -18,6 +18,7 @@ public class Java24proj2 {
         // TODO code application logic here
         
         System.out.println("Hello World from kirti");
+        System.out.println("Congratulation");
     }
     
 }
